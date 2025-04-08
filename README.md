@@ -25,3 +25,21 @@ I bring a unique approach to analyzing data trends and solving problems using to
 **Predictive Modeling:** Using machine learning to forecast trends and outcomes.
 
 **Storytelling with Data:** Communicating insights effectively through reports and presentations.
+
+**🚀 Technologies & Tools:**
+
+**Languages & Tools ||	Expertise**
+
+**Python ----Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn**
+
+**SQL----- MySQL**
+
+**Excel	Advanced------ Functions, Power Query**
+
+**Power BI-----	DAX, Visualizations**
+
+**Jupyter Notebook------	Data Analysis**
+
+**MS Word ----------	Documentation, Reports**
+
+**MS PowerPoint-------	Presentations, Data Storytelling**
