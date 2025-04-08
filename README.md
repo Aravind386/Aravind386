@@ -43,3 +43,10 @@ I bring a unique approach to analyzing data trends and solving problems using to
 **MS Word ----------	Documentation, Reports**
 
 **MS PowerPoint-------	Presentations, Data Storytelling**
+
+**📫 Connect with Me:**
+
+**Mobile No:8088042892**
+
+**Email:aravindaat656@gmail.com**
+
