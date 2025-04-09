@@ -1,5 +1,5 @@
 🌟 **Hi, I'm ARAVIND K**
-**Data Analyst |  Insights-Driven Decision Making |**
+**Data Analyst**
 
 I specialize in transforming complex data into actionable insights that drive business strategies.
 With extensive experience in data analytics, visualization, and predictive modeling, 
