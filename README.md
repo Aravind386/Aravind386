@@ -6,11 +6,6 @@
 
 I specialize in transforming raw data into meaningful insights through data analysis, reporting, and interactive dashboards. With experience in MIS reporting and business intelligence, I work with Python, SQL, Power BI, and Excel to analyse business performance, automate reporting workflows, and support data-driven decision-making.
 
-🌐 **Portfolio:** [View My Portfolio](#portfolio)  
-📊 **Focus:** Data Analytics | Business Intelligence | MIS Reporting
-
----
-
 ## 👨‍💻 About Me
 
 - 📊 Working in MIS reporting and business data analysis.
