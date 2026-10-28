@@ -25,7 +25,7 @@ I am a data-focused professional with an MIS and reporting background, passionat
 | Business Intelligence | Power BI, DAX |
 | Data Preparation | Excel, Power Query |
 | Analysis | EDA, Data Cleaning, Data Transformation |
-| Other Tools | Google Colab, Jupyter Notebook, Microsoft Office |
+| Other Tools | Google Colab, Jupyter Notebook |
 
 ---
 
