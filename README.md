@@ -22,9 +22,9 @@ I specialize in transforming raw data into meaningful insights through data anal
 
 ## 💼 Professional Experience
 
-### MIS Executive / Jr. MIS Executive
-**Genisys Group — Bengaluru, India**  
-**February 2026 – Present**
+### MIS Executive / Power BI Developer
+** Bandhantech — Bengaluru, India**  
+**April 2025 – Present**
 
 - Prepare and maintain MIS reports and business performance dashboards.
 - Analyse operational and lead-related data to identify trends and performance gaps.
@@ -37,19 +37,6 @@ I specialize in transforming raw data into meaningful insights through data anal
 - Track report updates and ensure stakeholders receive relevant business information.
 
 **Technologies:** Power BI, DAX, SQL, Advanced Excel, Power Query, MIS Reporting
-
-### Customer Support Executive
-**Genisys Group — Bengaluru, India**  
-**April 2025 – January 2026**
-
-- Supported customer queries and operational processes.
-- Maintained accurate records and followed established workflows.
-- Coordinated with relevant teams to resolve customer issues.
-- Developed an understanding of business operations, customer processes, and reporting requirements.
-
-**Key Skills:** Communication, Problem Solving, Process Coordination, Data Accuracy
-
----
 
 ## 🛠️ Technical Skills
 
