@@ -60,68 +60,6 @@ I specialize in transforming raw data into meaningful insights through data anal
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. 🏦 Bank Telemarketing Campaign Analysis
-**Python | Pandas | NumPy | Matplotlib | Seaborn**
-
-Analysed customer and campaign-related data to identify patterns associated with term deposit subscriptions.
-
-**Key Activities:**
-- Cleaned data and handled missing values.
-- Performed exploratory data analysis (EDA).
-- Analysed customer segments by age, occupation, education, and marital status.
-- Compared subscription rates across campaign characteristics.
-- Created visualizations and data-driven recommendations.
-
-**Outcome:** Identified customer segments and campaign factors for further investigation and testing.
-
-> Note: This portfolio project uses synthetic practice data, not actual bank customer data.
-
-🔗 **Repository:** Add your GitHub project link here.
-
-### 2. 📊 Sales Performance Dashboard — Power BI
-**Power BI | DAX | Power Query**
-
-Designed to analyse sales trends and business performance through interactive dashboards.
-
-**Key Activities:**
-- Prepare and transform sales data.
-- Create KPI measures using DAX.
-- Analyse product-wise and region-wise performance.
-- Track monthly trends and performance indicators.
-- Build interactive charts and report filters.
-
-🔗 **Repository / Dashboard:** Add your project link here.
-
-### 3. 🍕 Pizza Sales Analysis Dashboard
-**Power BI | SQL | Excel**
-
-A business intelligence project focused on understanding sales performance and product trends.
-
-**Key Activities:**
-- Analyse total revenue and order volume.
-- Identify best-selling and low-performing products.
-- Compare sales by category and time period.
-- Create business KPIs and interactive visuals.
-
-🔗 **Repository / Dashboard:** Add your project link here.
-
-### 4. 📈 HR Data Analysis Using Python
-**Python | Pandas | Matplotlib | Seaborn**
-
-Explored HR data to understand workforce patterns and employee-related metrics.
-
-**Key Activities:**
-- Clean and prepare HR datasets.
-- Analyse employee experience and salary distributions.
-- Explore attrition patterns.
-- Create charts and summarise findings.
-
-🔗 **Repository:** Add your GitHub project link here.
-
----
-
 ## 💡 Core Competencies
 
 - MIS Reporting and Business Reporting
@@ -137,18 +75,6 @@ Explored HR data to understand workforce patterns and employee-related metrics.
 - Business Insights and Data Storytelling
 
 ---
-
-## 📚 Currently Learning
-
-- Advanced SQL and query optimisation
-- Python for practical data analytics
-- Power BI data modelling and DAX
-- Statistics for data analysis
-- Azure data services and cloud fundamentals
-- Portfolio development and interview preparation
-
----
-
 ## 📫 Connect With Me
 
 - 📧 **Email:** [aravindaat656@gmail.com](mailto:aravindaat656@gmail.com)
