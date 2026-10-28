@@ -21,7 +21,7 @@ I am a data-focused professional with an MIS and reporting background, passionat
 | Programming | Python |
 | Data Analysis | Pandas, NumPy |
 | Data Visualization | Matplotlib, Seaborn |
-| Database | SQL, MySQL |
+| Database | SQL Server, MySQL |
 | Business Intelligence | Power BI, DAX |
 | Data Preparation | Excel, Power Query |
 | Analysis | EDA, Data Cleaning, Data Transformation |
