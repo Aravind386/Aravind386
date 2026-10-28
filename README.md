@@ -79,10 +79,6 @@ I specialize in transforming raw data into meaningful insights through data anal
 
 - 📧 **Email:** [aravindaat656@gmail.com](mailto:aravindaat656@gmail.com)
 - 📱 **Mobile:** +91 80880 42892
-- 💼 **LinkedIn:** Add your LinkedIn profile URL
-- 🐙 **GitHub:** Add your GitHub profile URL
-- 🌐 **Portfolio:** Add your published portfolio website URL
-
 ---
 
 ## 🎯 Career Objective
