@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Aravind K
 
-### 📊 Data Analyst | Python | SQL | Power BI | Excel
+### 📊 Data Analysis | Advanced Excel | Power Bi| Python | SQL | Statistics 
 
 I am a data-focused professional with an MIS and reporting background, passionate about transforming raw data into meaningful insights. I use data cleaning, exploratory data analysis, SQL queries, and interactive dashboards to understand business performance and support data-driven decisions.
 
