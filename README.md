@@ -2,7 +2,7 @@
 # Hi 👋, I'm Aravind K
 
 ### MIS Executive | Power BI Developer
-** • Advanced Excel • Power BI • Python • SQL • Statistics**
+# • Advanced Excel • Power BI • Python • SQL • Statistics**
 
 I specialize in transforming raw data into meaningful insights through data analysis, reporting, and interactive dashboards. With experience in MIS reporting and business intelligence, I work with Python, SQL, Power BI, and Excel to analyse business performance, automate reporting workflows, and support data-driven decision-making.
 
