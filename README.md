@@ -45,17 +45,6 @@ I am a data-focused professional with an MIS and reporting background, passionat
 
 ---
 
-## 📚 Currently Improving
-
-- Advanced SQL and query optimization
-- Python-based data analysis
-- Power BI data modelling and DAX
-- Statistics for data analysis
-- Portfolio projects using practical datasets
-- Business communication and interview preparation
-
----
-
 ## 📫 Connect With Me
 
 - **Email:** [aravindaat656@gmail.com](mailto:aravindaat656@gmail.com)
