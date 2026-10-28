@@ -56,7 +56,7 @@ I specialize in transforming raw data into meaningful insights through data anal
 `Data Cleaning` `Data Transformation` `Data Profiling` `KPI Analysis` `Trend Analysis` `Data Visualization` `Business Reporting`
 
 ### 🧰 Tools & Platforms
-`Google Colab` `Jupyter Notebook` `SSMS` `VS Code` `Microsoft Excel` `PowerPoint`
+`Google Colab` `Jupyter Notebook`
 
 ---
 
