@@ -67,8 +67,6 @@ I specialize in transforming raw data into meaningful insights through data anal
 - DAX Measures and Data Modelling
 - Excel Reporting and Automation
 - KPI Monitoring and Trend Analysis
-- Lead Funnel and Conversion Analysis
-- Data Reconciliation and Validation
 - Business Insights and Data Storytelling
 
 ---
