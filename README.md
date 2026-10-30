@@ -23,7 +23,7 @@ I specialize in transforming raw data into meaningful insights through data anal
 ## 💼 Professional Experience
 
 ### MIS Executive / Power BI Developer
-** Bandhantech — Bengaluru, India**  
+** Bandhan Technologies — Bengaluru, India**  
 **April 2025 – Present**
 
 - Prepare and maintain MIS reports and business performance dashboards.
