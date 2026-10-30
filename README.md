@@ -35,8 +35,6 @@ I specialize in transforming raw data into meaningful insights through data anal
 - Coordinate with internal teams to investigate data discrepancies and reporting issues.
 - Track report updates and ensure stakeholders receive relevant business information.
 
-**Technologies:** Power BI, DAX, SQL, Advanced Excel, Power Query, MIS Reporting
-
 ## 🛠️ Technical Skills
 
 ### 📌 Programming & Data Analysis
