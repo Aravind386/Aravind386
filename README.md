@@ -31,8 +31,7 @@ I specialize in transforming raw data into meaningful insights through data anal
 - Develop and maintain Power BI reports and dashboards for business stakeholders.
 - Use SQL and Excel to support data extraction, validation and reporting.
 - Monitor lead funnel metrics, including enquiries, test drives, bookings, and retail.
-- Perform source and sub-source analysis to understand lead quality and conversion trends.
-- Support Power BI report access, row-level security (RLS), and user access troubleshooting.
+- Support Power BI report access, row-level security (RLS) and user access troubleshooting.
 - Coordinate with internal teams to investigate data discrepancies and reporting issues.
 - Track report updates and ensure stakeholders receive relevant business information.
 
